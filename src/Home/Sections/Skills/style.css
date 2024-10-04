@@ -1,0 +1,14 @@
+.skill-item:hover {
+  transform: scale(1.02);
+}
+
+.card-body div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.card {
+  border: none;
+}

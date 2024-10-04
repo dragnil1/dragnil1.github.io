@@ -1,0 +1,14 @@
+@media (max-width: 992px) {
+  #education,
+  #experience,
+  #research,
+  #projects,
+  #skills,
+  #awards {
+    scroll-margin-top: 20px;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}

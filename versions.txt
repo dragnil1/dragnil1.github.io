@@ -1,0 +1,2 @@
+node version: v.18.12.1
+npm version: 9.1.2
