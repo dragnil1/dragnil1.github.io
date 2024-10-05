@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ea11cf63.css",
-    "main.js": "/static/js/main.fe6296fa.js",
+    "main.js": "/static/js/main.f44a76d9.js",
     "static/media/video1.gif": "/static/media/video1.808523f6263e28d5de00.gif",
     "static/media/rokomari.png": "/static/media/rokomari.83c8011b71ba421cb228.png",
     "static/media/Pipeline_MIPS.png": "/static/media/Pipeline_MIPS.e91b1d49058734a17ab2.png",
@@ -43,10 +43,10 @@
     "static/media/hibernate.svg": "/static/media/hibernate.3ba27e0b6fd7445e70b782fe6cb5aed4.svg",
     "static/media/F\u0000#.svg": "/static/media/F#.22323597fa63e152cf38b2ec48f53334.svg",
     "main.ea11cf63.css.map": "/static/css/main.ea11cf63.css.map",
-    "main.fe6296fa.js.map": "/static/js/main.fe6296fa.js.map"
+    "main.f44a76d9.js.map": "/static/js/main.f44a76d9.js.map"
   },
   "entrypoints": [
     "static/css/main.ea11cf63.css",
-    "static/js/main.fe6296fa.js"
+    "static/js/main.f44a76d9.js"
   ]
 }
